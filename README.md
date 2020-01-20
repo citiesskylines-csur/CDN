@@ -16,3 +16,5 @@ or ignore the version number, referencing the latest version of the file.
   
 https://cdn.jsdelivr.net/gh/<USERNAME>/<REPO>/<PATH>
 ```
+e.g.
+https://cdn.jsdelivr.net/gh/citiesskylines-csur/CDN/m1-1.png
