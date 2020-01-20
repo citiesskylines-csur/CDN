@@ -2,7 +2,7 @@
 
 >
 
-## USE
+## USE CDN
 
 1. Upload assets.
 
