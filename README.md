@@ -8,7 +8,7 @@
 
 2. Creat a new release.
 
-3. Use
+3. Get the file link.
 ```html
 https://cdn.jsdelivr.net/gh/<USERNAME>/<REPO>@<VERSION>/<PATH>
   
