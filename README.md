@@ -2,8 +2,6 @@
 
 >
 
-## USE CDN
-
 1. Upload assets.
 
 2. Creat a new release.
